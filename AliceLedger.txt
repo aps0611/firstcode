@@ -1,0 +1,5 @@
+Balance is 0
+Deposit2000
+Balance is 2000
+Withdraw100
+Balance is 1900/n
