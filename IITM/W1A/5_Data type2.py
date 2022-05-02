@@ -12,3 +12,17 @@ print(type(l))
 print(type(m))
 print(type(n))
 print(type(o))
+
+
+bool(10.5)
+bool(-10)
+#both will return True 
+
+bool(0)
+#returns false
+
+bool('0')
+#returns True
+
+bool('')
+#returns false
